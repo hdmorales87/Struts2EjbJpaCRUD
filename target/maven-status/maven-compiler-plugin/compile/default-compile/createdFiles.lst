@@ -1,0 +1,6 @@
+com\java\ee\actions\PersonasAction.class
+com\java\ee\capadatos\PersonaDao.class
+com\java\ee\capadatos\PersonaDaoImpl.class
+com\java\ee\capadatos\domain\Persona.class
+com\java\ee\capaservicio\PersonaService.class
+com\java\ee\capaservicio\PersonaServiceImpl.class
